@@ -1,12 +1,9 @@
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
 
-        RandomNumArray randomNumArray = new RandomNumArray();
+        SumAlgorithm sumAlgorithm = new SumAlgorithm();
 
-        int[] intArray = randomNumArray.getIntArray();
+            sumAlgorithm.sumAlgorithm();
 
-        System.out.println("intArray " + Arrays.toString(intArray));
     }
 }
