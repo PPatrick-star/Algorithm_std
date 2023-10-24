@@ -2,7 +2,6 @@
 
 // [?] n명의 점수 중에서 80점 이상 95점 이하인 점수의 평균
 
-
 public class AverageAlgorithm {
     public static void main(String[] args) {
         // 1-입력: n 명의 성적
