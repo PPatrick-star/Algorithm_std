@@ -1,3 +1,5 @@
+package basic;
+
 //[?] 정렬되어 있는 데이터를 이진 검색(이분탐색)을 사용하여 반씩 나눠서 검색
 
 // SearchAlgorithm
