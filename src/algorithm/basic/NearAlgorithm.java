@@ -1,4 +1,4 @@
-package basic;
+package algorithm.basic;
 
 // [?] 원본 데이터 중에서 대상 데이터와 가장 가까운 값
 

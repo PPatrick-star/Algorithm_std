@@ -1,4 +1,4 @@
-package basic;
+package algorithm.basic;
 
 // [?] 주어진 (지정한 범위) 데이터의 순위(등수) 를 구하는 로직
 

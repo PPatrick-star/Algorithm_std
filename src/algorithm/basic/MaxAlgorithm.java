@@ -1,4 +1,4 @@
-package basic;
+package algorithm.basic;
 
 // [?] 주어진 데이터 중에서 가장 큰 값
 

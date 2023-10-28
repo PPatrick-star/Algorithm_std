@@ -1,4 +1,4 @@
-package basic;
+package algorithm.basic;
 
 // 평균 알고리즘 (Average Algorithm): 주어진 범위에 주어진 조건에 해당하는 자료들의 평균
 

@@ -1,4 +1,4 @@
-package basic;
+package algorithm.basic;
 
 // [?] 2개의 정수 배열 합치기: 단, 2개의 배열은 오름차순으로 정렬되어 있다고 가정
 

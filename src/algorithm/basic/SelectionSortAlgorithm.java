@@ -1,4 +1,4 @@
-package basic;
+package algorithm.basic;
 
 //[?] 무작위 데이터를 순서대로 오름/내림 차순 정렬
 
