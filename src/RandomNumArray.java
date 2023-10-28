@@ -1,3 +1,4 @@
+
 public class RandomNumArray {
 
     public int[] getIntArray() {

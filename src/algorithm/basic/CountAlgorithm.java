@@ -1,3 +1,4 @@
+package algorithm.basic;
 
 // 개수 알고리즘 (Count Algorithm) 주어진 범위에 주어진 조건에 해당하는 자료들의 개수
 

@@ -1,6 +1,9 @@
+package algorithm.basic;
+
 // 평균 알고리즘 (Average Algorithm): 주어진 범위에 주어진 조건에 해당하는 자료들의 평균
 
 // [?] n명의 점수 중에서 80점 이상 95점 이하인 점수의 평균
+
 
 public class AverageAlgorithm {
     public static void main(String[] args) {
