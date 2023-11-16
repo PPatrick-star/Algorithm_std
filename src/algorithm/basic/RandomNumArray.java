@@ -1,3 +1,4 @@
+package algorithm.basic;
 public class RandomNumArray {
 
     public int[] getIntArray() {
