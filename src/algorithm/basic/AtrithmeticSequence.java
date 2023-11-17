@@ -1,3 +1,4 @@
+package algorithm.basic;
 
 // 등차수열( Arithmetic Sequence ) : 연속하는 두 수 의 차이가 일정한 수열
 

@@ -1,3 +1,4 @@
+package algorithm.basic;
 public class SumAlgorithm {
 
     // [?] n명의 국어 점수 중에서 80점 이상인 점수의 합계ㅒ
